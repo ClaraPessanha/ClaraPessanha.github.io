@@ -27,7 +27,7 @@ h2 {
 }
 
 .title-skills{
-    font-size: 60px;
+    font-size: 400%;
     font-weight: 999;
     font-family: cursive;
     color: rgb(142, 8, 238);
@@ -45,4 +45,9 @@ h2 {
     padding: 15px 25px;
     border-radius: 100px;
     text-decoration: none; 
+}
+
+.skills{
+width: 20%;
+
 }
