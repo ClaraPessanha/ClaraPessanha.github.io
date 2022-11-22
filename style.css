@@ -1,5 +1,27 @@
 h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: rgb(118, 196, 1);
+}
+
+h1{
+    font-size: 60px;
+}
+
+.title-name {
+    font-family: fantasy;
+    
+    }
+.self-description{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.title-skills{
+    font-size: 60px;
+    font-weight: 999;
+    font-family: cursive;
+    color: rgb(142, 8, 238);
 }
 body{
 
