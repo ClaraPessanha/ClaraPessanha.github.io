@@ -18,11 +18,12 @@ h2 {
 
 .title-name {
     font-family: fantasy;
+    color: rgb(87, 173, 0);
     
     }
 .self-description{
     font-family: monospace;
-    font-size: 15px;
+    font-size: 17px;
 }
 
 .title-skills{
