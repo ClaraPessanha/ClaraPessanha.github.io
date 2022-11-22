@@ -27,3 +27,7 @@ body{
 
     font-family: monospace, fantasy;
 }
+.photoperfil{
+    border-radius: 50%;
+    width: 350px;
+}
