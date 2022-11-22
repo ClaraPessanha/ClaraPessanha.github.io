@@ -1,12 +1,20 @@
-h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 30px;
-    color: rgb(118, 196, 1);
+body{
+
+    font-family: monospace, fantasy;
 }
 
 h1{
     font-size: 60px;
 }
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(137, 184, 68);
+    font-weight: 910;
+}
+
+
 
 .title-name {
     font-family: fantasy;
@@ -23,11 +31,16 @@ h1{
     font-family: cursive;
     color: rgb(142, 8, 238);
 }
-body{
 
-    font-family: monospace, fantasy;
-}
 .photoperfil{
     border-radius: 50%;
     width: 350px;
+
+}
+
+.button{
+    color: #fff;
+    background-color: green;
+    padding: 15px 30px;
+    border-radius: 100px;
 }
